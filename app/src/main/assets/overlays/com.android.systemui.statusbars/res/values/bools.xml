@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_show4GForLTE">false</bool>
+    <bool name="config_showActivity">false</bool>
+    <bool name="config_showWifiActivity">false</bool>
+</resources>
